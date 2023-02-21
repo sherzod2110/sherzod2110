@@ -1,4 +1,2 @@
-                                                           ### Hi there 👋
-                                                       I'm Khaydarov Sherzod 
-
-          
+                                                   ### Hi there 👋
+                                               I'm Khaydarov Sherzod
